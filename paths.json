@@ -1,8 +1,7 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json",
-    "/content/xsc-xwalk-site/configuration.json:/configuration.json"
+    "/content/shmehta/xwal-test-2025-7-14-3-18-51-01/:/",
+    "/content/shmehta/xwal-test-2025-7-14-3-18-51-01/metadata.json:/metadata.json",
+    "/content/shmehta/xwal-test-2025-7-14-3-18-51-01/redirects.json:/redirects.json"
   ]
 }
